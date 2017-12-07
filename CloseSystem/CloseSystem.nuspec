@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NMNT.ShutDownSystem.ShutSystem</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>NMNT</authors>
+    <owners>NMNT</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Close all running programs</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Close all running programs</tags>
+  </metadata>
+</package>

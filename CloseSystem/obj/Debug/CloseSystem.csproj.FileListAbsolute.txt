@@ -1,0 +1,5 @@
+c:\users\abc\documents\visual studio 2015\Projects\CloseSystem\CloseSystem\bin\Debug\CloseSystem.dll
+c:\users\abc\documents\visual studio 2015\Projects\CloseSystem\CloseSystem\bin\Debug\CloseSystem.pdb
+c:\users\abc\documents\visual studio 2015\Projects\CloseSystem\CloseSystem\obj\Debug\CloseSystem.csprojResolveAssemblyReference.cache
+c:\users\abc\documents\visual studio 2015\Projects\CloseSystem\CloseSystem\obj\Debug\CloseSystem.dll
+c:\users\abc\documents\visual studio 2015\Projects\CloseSystem\CloseSystem\obj\Debug\CloseSystem.pdb
